@@ -12,7 +12,7 @@ This project explores and analyzes youth unemployment trends in South Africa usi
 To understand the patterns, gender disparities, and time-based changes in unemployment among South African youth (ages 15–24), and present the insights using visual and statistical techniques.
 
 
-## ✅ Summary of Steps
+## Summary of Steps
 1. **Data Cleaning**  
    - Filtered only South African data  
    - Focused on youth age group (15–24)  
